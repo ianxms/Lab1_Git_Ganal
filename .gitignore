@@ -1,1 +1,3 @@
 .venv/
+git config --global user.name "Ian"
+git config --global user.email "ianmarloganal@gmail.com"
